@@ -236,7 +236,7 @@ ol{
 	position: relative;
 	z-index: 2;
 	padding: 20px;
-	width: 940px
+	word-wrap:break-word;
 }
 
 .floating-image{
